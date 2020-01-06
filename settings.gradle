@@ -1,0 +1,2 @@
+include ':app', ':zhangyaojun106'
+rootProject.name='weektest02'
